@@ -1,0 +1,3 @@
+<Sirenagui><def name="hi"><text>test</text><syntax>words = ['cat', 'window', 'defenestrate']
+for w in words:
+	print(w, len(w))</syntax></def></Sirenagui>

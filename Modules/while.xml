@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Sirenagui>
+<def name='while'>
+   <text>A while loop statement in Python programming language repeatedly executes a target statement as long as a given condition is true.</text>
+   <par name='condition'>logical</par>
+   <syntax>count = 0
+while (count  &lt; 9):
+   print 'The count is:', count
+   count = count + 1
+
+print "Good bye!"</syntax>
+</def>
+</Sirenagui>

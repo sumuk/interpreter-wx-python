@@ -1,0 +1,5 @@
+<Sirenagui><def name="hell"><text>hell</text><syntax>while (count  &lt; 9):
+   print 'The count is:', count
+   count = count + 1
+
+print "Good bye!"</syntax></def></Sirenagui>
