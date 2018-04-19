@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Sirenagui>
+<IP>192.168.1.1</IP>
+<Port>5051</Port>
+<Camera>True</Camera>
+<Mic>True</Mic>
+</Sirenagui>

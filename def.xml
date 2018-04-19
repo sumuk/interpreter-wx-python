@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Sirenagui>
+<def name='smoke'>
+   <text>hi,
+	this used to def purpose 1</text>
+   <par name='name'>string</par>
+   <par name='parent'>string</par>
+   <par name='return'>None</par>
+</def>
+<def name='sirena'>
+   <text>company name</text>
+   <par name='name'>string</par>
+   <par name='parent'>string</par>
+</def>
+<def name='sumuk'>
+   <text>hi my name</text>
+</def>
+<def name='ugh'>
+   <text>fuck this shit</text>
+   <par name='return'>None</par>
+</def>
+<def name='led'>
+   <text>led()
+	led1.makecolor(r,g,b)</text>
+   <par name='name'>string</par>
+   <par name='return'>None</par>
+</def>
+</Sirenagui>
